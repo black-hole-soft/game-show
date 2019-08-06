@@ -1,0 +1,10 @@
+1|Ariel|sound1|avatar1|Gender|Female|Age|15|Weight|90|Height|5'10"|Health|Very fit|Job|Mermaid
+1|Aurora|sound2|avatar2|Gender|Female|Age|16|Weight|100|Height|5'4"|Health|Medium
+1|Bell|sound3|avatar3|Gender|Female|Age|18|Weight|95
+1|Snow|sound4|avatar4|Gender|Female|Age|14|Weight|110
+1|Ella|sound5|avatar5|Gender|Female|Age|17|Weight|90
+1|Jasmine|sound6|avatar6|Gender|Female|Age|15|Weight|88
+1|Mulan|sound7|avatar7|Gender|Female|Age|18|Weight|82
+1|Rapunsel|sound8|avatar8|Gender|Female|Age|16|Weight|90
+1|Elsa|sound9|avatar9|Gender|Female|Age|21|Weight|98
+1|Tiana|sound10|avatar10|Gender|Female|Age|20|Weight|90
